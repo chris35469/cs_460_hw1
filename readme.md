@@ -30,3 +30,8 @@ Each trial should run under 40 seconds.
 
 
 You **do not** have to turn in your excel file
+
+
+## Gotchas
+- Is your script.py file in the right location? 
+- Is your setup.py file configured correctly? 
